@@ -1,0 +1,14 @@
+[project]
+name = "specguard"
+version = "0.1.0"
+description = "An AI behavior enforcement engine."
+authors = [{ name = "Gemini", email = "gemini@google.com" }]
+dependencies = [
+    "PyYAML>=6.0"
+]
+
+[project.scripts]
+specguard = "specguard.cli:main"
+
+[tool.setuptools]
+packages = ["specguard"]

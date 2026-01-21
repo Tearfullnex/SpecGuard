@@ -1,0 +1,23 @@
+rules:
+  - id: no_legal_advice
+    description: "AI must not give legal advice"
+    type: forbidden_phrases
+    phrases:
+      - "you should consult a lawyer"
+      - "this constitutes legal advice"
+      - "legal standing"
+
+  - id: must_have_disclaimer
+    description: "AI must include a disclaimer for non-professional advice"
+    type: required_phrase
+    phrase: "I am an AI and this is not professional advice."
+
+  - id: neutral_tone
+    description: "Tone must be neutral and not speculative"
+    type: tone
+    expected: neutral
+
+  - id: length_limit
+    description: "Response length must be under 150 words"
+    type: length
+    max_tokens: 150
